@@ -13,14 +13,15 @@ import cors from 'cors';
 
 const port = process.env.PORT || 5000;
 
-app.use(cors(
-  { origin: 'https://kaleidoscopic-crepe-be647e.netlify.app', credentials: true }
-));
+
 
 
 connectDB();
 
 const app = express();
+app.use(cors(
+  { origin: 'https://kaleidoscopic-crepe-be647e.netlify.app', credentials: true }
+));
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
