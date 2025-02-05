@@ -1,4 +1,4 @@
-ithinj# ProShop - E-commerce Application
+# ProShop - E-commerce Application
 
 ProShop is a secure and scalable e-commerce platform built using the MERN stack, featuring user authentication, state management, and payment gateway integration. The application ensures a seamless shopping experience with a responsive UI and robust backend services.
 
