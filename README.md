@@ -19,4 +19,7 @@ ProShop is a secure and scalable e-commerce platform built using the MERN stack,
 
 ---
 
+## Demo  
+- **Live URL:** [ProShop - E-commerce Application](https://kaleidoscopic-crepe-be647e.netlify.app/)  
+
 💻 Developed with ❤️ by [Nithin SJ](https://github.com/Nithinjayan4)
